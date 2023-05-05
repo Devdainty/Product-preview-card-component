@@ -58,13 +58,13 @@ body{
 }
 
 main{
-  max-width: 25em;
+  max-width: 29.375em;
   background-color: var(--white);
   border-radius: .5em;
 }
 
 div.image_container {
-  width: 25em;
+  width: 29.375em;
   margin-bottom: 1em;
 }
 
@@ -95,7 +95,7 @@ section.perfume_details_container{
 }
 */
 section{
-  padding: 0 1.3em 2em 1.3em;
+  padding: 0 1.6em 2em 1.6em;
 }
 
 h1{
@@ -116,7 +116,7 @@ h2{
 
 p.main_paragraph{
   font-family: 'Montserrat', sans-serif;
-  font-size: 1.3rem;
+  font-size: 1.4rem;
   line-height: 1.5;
   font-weight: 400;
   margin-bottom: 1.5em;
