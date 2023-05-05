@@ -58,13 +58,13 @@ body{
 }
 
 main{
-  max-width: 22em;
+  max-width: 25em;
   background-color: var(--white);
   border-radius: .5em;
 }
 
 div.image_container {
-  width: 22em;
+  width: 25em;
   margin-bottom: 1em;
 }
 
@@ -95,14 +95,14 @@ section.perfume_details_container{
 }
 */
 section{
-  padding: 0 1em 2em 1em;
+  padding: 0 1.3em 2em 1.3em;
 }
 
 h1{
   font-family: 'Montserrat', sans-serif;
   font-weight: 500;
   letter-spacing: .5em;
-  margin-bottom: .5em;
+  margin-bottom: 1em;
   color: var(--dark-grayish-blue);
 }
 
@@ -116,7 +116,7 @@ h2{
 
 p.main_paragraph{
   font-family: 'Montserrat', sans-serif;
-  font-size: 1.15rem;
+  font-size: 1.3rem;
   line-height: 1.5;
   font-weight: 400;
   margin-bottom: 1.5em;
@@ -175,21 +175,6 @@ div a{
     font-size: 1.8rem;
   }
 
-  p.main_paragraph{
-    font-size: 1.5rem;
-    line-height: 1.6;
-  }
-
-  p.price_change span:nth-child(2){
-    font-size: 1.5rem;
-  }
-}
-
-@media (min-width: 87.5em) { 
-  body{
-    font-size: 2.5rem;
-  }
-
   main{
     max-width: 31.25em;
     min-height: 19em;
@@ -197,18 +182,18 @@ div a{
     border-top-right-radius: .5em;
     border-bottom-left-radius: .5em;
   }
-  
+
   div.image_container {
     width: 15.625em;
     margin-bottom: 0em;
     border-top-left-radius: .5em;
     border-bottom-left-radius: .5em;
   }
-  
+
   .image_container .mobile{
     display: none;
   }
-  
+
   .image_container .desktop{
     display: unset;
     max-width: 100%;
@@ -216,39 +201,31 @@ div a{
     border-top-left-radius: .5em;
     border-bottom-left-radius: .5em;
   }
-  
+
   section{
     width: 15.625em;
     padding: 1.5em 2em 1.5em 1.5em;
   }
-  
+
   h1{
-    font-size: 1.9rem;
+    font-size: 1.4rem;
     margin-bottom: 1.5em;
   }
-  
+
   h2{
-    font-size: 3.2rem;
-    margin-bottom: 1em;
+    font-size: 2.9rem;
   }
-  
+
   p.main_paragraph{
-    font-size: 1.8rem;
-    line-height: 1.8;
-    margin-bottom: 1.5em;
+    font-size: 1.3rem;
+    line-height: 1.6;
   }
-  
+
   div.purchase_link{
     padding: .5em .5em;
   }
 
-  p.price_change{
-    margin-bottom: 2em;
-  }
-  
   div a{
-    font-size: 1.9rem;
+    font-size: 1.3rem;
   }
-  
 }
-
