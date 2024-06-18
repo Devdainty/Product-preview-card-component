@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/Devdainty/Product-preview-card-componen](https://github.com/Devdainty/Product-preview-card-component)
+- Solution URL: [https://github.com/Devdainty/Product-preview-card-component](https://github.com/Devdainty/Product-preview-card-component)
 - Live Site URL: [https://product-preview-card-component-tan-zeta.vercel.app/](https://product-preview-card-component-tan-zeta.vercel.app/)
 
 ## My process
@@ -67,6 +67,5 @@ Users should be able to:
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
 - Frontend Mentor - [@devdainty](https://www.frontendmentor.io/profile/devdainty)
 - Twitter - [@devdainty](https://www.twitter.com/devdainty)
